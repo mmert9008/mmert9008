@@ -23,6 +23,8 @@ Hi, I'm Mike.
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-575757?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![Markdown](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## My Profiles At Other Places
@@ -31,5 +33,12 @@ Hi, I'm Mike.
 [![Boot.Dev](https://img.shields.io/badge/Boot.Dev-404361?style=for-the-badge)](https://www.boot.dev/u/0xmertsec)
 [![Coddy.tech](https://img.shields.io/badge/Coddy.tech-429AD3?style=for-the-badge)](https://coddy.tech/user/ghpFOA0bUPUtM4OXkL37cfGFGxn1)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/mmert9008)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mmert9008)
 [![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/mikem21)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mmert9008)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-mertens-074bb474/)
+
+
+
+
+https://www.hackerrank.com/profile/mmert9008
