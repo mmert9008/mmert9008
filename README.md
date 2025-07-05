@@ -7,7 +7,7 @@ Hi, I'm Mike.
 * I have a homelab where I self-host a lot of services. Some for personal use. Some just for testing, often for work.
 * As a SysAdmin I've done a lot of scripting and actual programming seems like the next logical step.
 
-## Technologoies and Tools I Use Or Am Trying To Learn
+## Technologoies And Tools I Use And/Or Am Trying To Learn
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
