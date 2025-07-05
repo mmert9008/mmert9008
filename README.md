@@ -2,10 +2,10 @@
 
 Hi, I'm Mike.
 * I'm a SysAdmin.
-* I'm tring to learn to code.
+* I'm trying to learn to code.
 * I've worked in various areas of IT, but primarily as a SysAdmin, since 2008.
 * I have a homelab where I self-host a lot of services. Some for personal use. Some just for testing, often for work.
-* As a SysAdmin I've done a lot of scripting and actual programming seems like the next logical step.
+* As a SysAdmin, I've done a lot of scripting and actual programming seems like the next logical step.
 
 ## Technologoies And Tools I Use And/Or Am Trying To Learn
 
