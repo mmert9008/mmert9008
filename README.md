@@ -23,3 +23,5 @@ Hi, I'm Mike.
 ## My Profiles At Other Places
 
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/mmert9008)
+[![Boot.Dev](https://img.shields.io/badge/Boot.Dev-191C28?style=for-the-badge)](https://www.boot.dev/u/0xmertsec)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/mikem21)
