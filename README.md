@@ -37,3 +37,7 @@ Hi, I'm Mike.
 [![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/mikem21)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mmert9008)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-mertens-074bb474/)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmert9008)](https://github.com/ryo-ma/github-profile-trophy)
