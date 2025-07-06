@@ -42,7 +42,11 @@ Hi, I'm Mike.
 ## Training
 
 <img src="./images/Codecademy-Learn_SQL_Course.png" alt="Codecademy Learn SQL Course" width="450" height="auto">  <img src="./images/Codecademy-Learn_Python_3_Course.png" alt="Codecademy Learn Python 3 Course" width="450" height="auto">
+<img src="./images/Codecademy-Learn_HTML_Course.png" alt="Codecademy Learn HTML Course" width="450" height="auto">  <img src="./images/Codecademy-Learn_CSS_Course.png" alt="Codecademy Learn CSS Course" width="450" height="auto">
+<img src="./images/Codecademy-Learn_Go_Course.png" alt="Codecademy Learn Go Course" width="450" height="auto">  <img src="./images/Codecademy-Learn_Intermediate_Go_Course.png" alt="Codecademy Learn Intermediate Go Course" width="450" height="auto">
 
+
+<!--
 ![Codecademy Learn SQL Course](images/Codecademy-Learn_SQL_Course.png)
 
 ![Codecademy Learn Python 3 Course](images/Codecademy-Learn_Python_3_Course.png)
@@ -54,3 +58,4 @@ Hi, I'm Mike.
 ![Codecademy Learn Go Course](images/Codecademy-Learn_Go_Course.png)
 
 ![Codecademy Learn Intermediate Go Course](images/Codecademy-Learn_Intermediate_Go_Course.png)
+-->
