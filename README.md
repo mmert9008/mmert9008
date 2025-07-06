@@ -41,7 +41,7 @@ Hi, I'm Mike.
 
 ## Training
 
-<img src="./images/Codecademy-Learn_SQL_Course.png" alt="Codecademy Learn SQL Course" width="200" height="auto">
+<img src="./images/Codecademy-Learn_SQL_Course.png" alt="Codecademy Learn SQL Course" width="400" height="auto">
 
 ![Codecademy Learn SQL Course](images/Codecademy-Learn_SQL_Course.png)
 
