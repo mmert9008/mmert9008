@@ -37,3 +37,18 @@ Hi, I'm Mike.
 [![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/mikem21)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mmert9008)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-mertens-074bb474/)
+
+
+## Training
+
+![Codecademy Learn SQL Course](images/Codecademy-Learn_SQL_Course.png)
+
+![Codecademy Learn Python 3 Course](images/Codecademy-Learn_Python_3_Course.png)
+
+![Codecademy Learn HTML Course](images/Codecademy-Learn_HTML_Course.png)
+
+![Codecademy Learn CSS Course](images/Codecademy-Learn_CSS_Course.png)
+
+![Codecademy Learn Go Course](images/Codecademy-Learn_Go_Course.png)
+
+![Codecademy Learn Intermediate Go Course](images/Codecademy-Learn_Intermediate_Go_Course.png)
