@@ -46,9 +46,9 @@ Hi, I'm Mike.
 
 <img src="./images/Codecademy-Learn_HTML_Course.png" alt="Codecademy Learn HTML Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_CSS_Course.png" alt="Codecademy Learn CSS Course" width="400" height="auto">
 <img src="./images/Codecademy-Learn_Intermediate_CSS_Course.png" alt="Codecademy Learn Intermediate CSS Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_JavaScript_Course.png" alt="Codecademy Learn JavaScript Course" width="400" height="auto">
-<img src="./images/Codecademy-Learn_Intermediate_JavaScript_Course.png" alt="Codecademy Learn Intermediate JavaScript Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_SQL_Course.png" alt="Codecademy Learn SQL Course" width="400" height="auto">
-<img src="./images/Codecademy-Learn_Python_3_Course.png" alt="Codecademy Learn Python 3 Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_Go_Course.png" alt="Codecademy Learn Go Course" width="400" height="auto">
-<img src="./images/Codecademy-Learn_Intermediate_Go_Course.png" alt="Codecademy Learn Intermediate Go Course" width="400" height="auto">
+<img src="./images/Codecademy-Learn_Intermediate_JavaScript_Course.png" alt="Codecademy Learn Intermediate JavaScript Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_Node.js_Course.png" alt="Codecademy Learn Node.js Course" width="400" height="auto">
+<img src="./images/Codecademy-Learn_SQL_Course.png" alt="Codecademy Learn SQL Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_Python_3_Course.png" alt="Codecademy Learn Python 3 Course" width="400" height="auto">
+<img src="./images/Codecademy-Learn_Go_Course.png" alt="Codecademy Learn Go Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_Intermediate_Go_Course.png" alt="Codecademy Learn Intermediate Go Course" width="400" height="auto">
 
 ### Boot.dev
 
