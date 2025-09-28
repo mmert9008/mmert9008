@@ -52,6 +52,6 @@ Hi, I'm Mike.
 
 ### Boot.dev
 
-<img src="./images/bootdev-Learn_JavaScript.png" alt="Boot.dev Learn JavaScript" width="400" height="auto">  <img src="./images/bootdev-Learn_to_Code_in_Python.png" alt="Boot.dev Learn to Code in Python" width="400" height="auto">
-<img src="./images/bootdev-Learn_Object_Oriented_Programming_in_Python.png" alt="Boot.dev Learn Object Oriented Programming in Python" width="400" height="auto">  <img src="./images/bootdev-Learn_Functional_Programming_in_Python.png" alt="Boot.dev Learn Functional Programming in Python" width="400" height="auto">
-<img src="./images/bootdev-Learn_Data_Structures_and_Algorithms_in_Python.png" alt="Boot.dev Learn Data Structures and Algorithms in Python" width="400" height="auto">
+<img src="./images/bootdev-Learn_TypeScript.png" alt="Boot.dev Learn TypeScript" width="400" height="auto">  <img src="./images/bootdev-Learn_JavaScript.png" alt="Boot.dev Learn JavaScript" width="400" height="auto">
+<img src="./images/bootdev-Learn_to_Code_in_Python.png" alt="Boot.dev Learn to Code in Python" width="400" height="auto">  <img src="./images/bootdev-Learn_Object_Oriented_Programming_in_Python.png" alt="Boot.dev Learn Object Oriented Programming in Python" width="400" height="auto">
+<img src="./images/bootdev-Learn_Functional_Programming_in_Python.png" alt="Boot.dev Learn Functional Programming in Python" width="400" height="auto">  <img src="./images/bootdev-Learn_Data_Structures_and_Algorithms_in_Python.png" alt="Boot.dev Learn Data Structures and Algorithms in Python" width="400" height="auto">
