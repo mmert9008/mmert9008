@@ -56,12 +56,14 @@ Hi, I'm Mike.
 <img src="./images/Codecademy-Learn_HTML_Course.png" alt="Codecademy Learn HTML Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_CSS_Course.png" alt="Codecademy Learn CSS Course" width="400" height="auto">
 <img src="./images/Codecademy-Learn_Intermediate_CSS_Course.png" alt="Codecademy Learn Intermediate CSS Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_JavaScript_Course.png" alt="Codecademy Learn JavaScript Course" width="400" height="auto">
 <img src="./images/Codecademy-Learn_Intermediate_JavaScript_Course.png" alt="Codecademy Learn Intermediate JavaScript Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_Node.js_Course.png" alt="Codecademy Learn Node.js Course" width="400" height="auto">
-<img src="./images/Codecademy-Learn_Express_Course.png" alt="Codecademy Learn Express Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_SQL_Course.png" alt="Codecademy Learn SQL Course" width="400" height="auto">
-<img src="./images/Codecademy-Learn_Python_3_Course.png" alt="Codecademy Learn Python 3 Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_Go_Course.png" alt="Codecademy Learn Go Course" width="400" height="auto">
-<img src="./images/Codecademy-Learn_Intermediate_Go_Course.png" alt="Codecademy Learn Intermediate Go Course" width="400" height="auto">
+<img src="./images/Codecademy-Learn_Express_Course.png" alt="Codecademy Learn Express Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_TypeScript_Course.png" alt="Codecademy Learn TypeScript Course" width="400" height="auto">
+<img src="./images/Codecademy-Learn_SQL_Course.png" alt="Codecademy Learn SQL Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_Python_3_Course.png" alt="Codecademy Learn Python 3 Course" width="400" height="auto">
+<img src="./images/Codecademy-Learn_Go_Course.png" alt="Codecademy Learn Go Course" width="400" height="auto">  <img src="./images/Codecademy-Learn_Intermediate_Go_Course.png" alt="Codecademy Learn Intermediate Go Course" width="400" height="auto">
 
 ### Boot.dev
 
-<img src="./images/bootdev-Learn_TypeScript.png" alt="Boot.dev Learn TypeScript" width="400" height="auto">  <img src="./images/bootdev-Learn_JavaScript.png" alt="Boot.dev Learn JavaScript" width="400" height="auto">
-<img src="./images/bootdev-Learn_to_Code_in_Python.png" alt="Boot.dev Learn to Code in Python" width="400" height="auto">  <img src="./images/bootdev-Learn_Object_Oriented_Programming_in_Python.png" alt="Boot.dev Learn Object Oriented Programming in Python" width="400" height="auto">
-<img src="./images/bootdev-Learn_Functional_Programming_in_Python.png" alt="Boot.dev Learn Functional Programming in Python" width="400" height="auto">  <img src="./images/bootdev-Learn_Data_Structures_and_Algorithms_in_Python.png" alt="Boot.dev Learn Data Structures and Algorithms in Python" width="400" height="auto">
+<img src="./images/bootdev-Learn_TypeScript.png" alt="Boot.dev Learn TypeScript" width="400" height="auto">  <img src="./images/bootdev-Learn_HTTP_Clients_in_TypeScript.png" alt="Boot.dev Learn HTTP Clients in TypeScript" width="400" height="auto">
+<img src="./images/bootdev-Learn_JavaScript.png" alt="Boot.dev Learn JavaScript" width="400" height="auto">  <img src="./images/bootdev-Learn_SQL.png" alt="Boot.dev Learn SQL" width="400" height="auto">
+<img src="./images/bootdev-Learn_Docker.png" alt="Boot.dev Learn Docker" width="400" height="auto">  <img src="./images/bootdev-Learn_to_Code_in_Python.png" alt="Boot.dev Learn to Code in Python" width="400" height="auto">
+<img src="./images/bootdev-Learn_Object_Oriented_Programming_in_Python.png" alt="Boot.dev Learn Object Oriented Programming in Python" width="400" height="auto">  <img src="./images/bootdev-Learn_Functional_Programming_in_Python.png" alt="Boot.dev Learn Functional Programming in Python" width="400" height="auto">
+<img src="./images/bootdev-Learn_Data_Structures_and_Algorithms_in_Python.png" alt="Boot.dev Learn Data Structures and Algorithms in Python" width="400" height="auto">
